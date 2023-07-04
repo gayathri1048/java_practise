@@ -1,5 +1,3 @@
-
-
 public class vehicle {
 	 protected String color;
 	int maxspeed;
