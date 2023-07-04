@@ -1,4 +1,4 @@
-package inheritance;
+
 
 public class vehicle {
 	 protected String color;
