@@ -1,4 +1,4 @@
-public class vehicleUse {
+public class vehicleUse extends vehicle{
 	public static void main(String[] args)
 	{
 		vehicle v=new vehicle();
